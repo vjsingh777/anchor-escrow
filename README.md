@@ -48,7 +48,7 @@ $ anchor test
 
 ## Emailware
 
-Anchor-escrow is basic version of escrow for my initial steps [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked this escrow or it has helped you in any way, I'd like you send me an email at <vijyendra.singh01@gmail.com> about anything you'd want to say/share/correct/update about escrows. I'd really appreciate it!
+Anchor-escrow is basic version of escrow for my initial steps. Meaning, if you liked this escrow or it has helped you in any way, I'd like you send me an email at <vijyendra.singh01@gmail.com> about anything you'd want to say/share/correct/update about escrows. I'd really appreciate it!
 
 ## Credits
 
@@ -56,7 +56,9 @@ This software uses the following open source packages:
 
 - [Anchor](https://www.anchor-lang.com/docs/installation)
 - [Solana](https://solana.com/docs/intro/installation)
-
+- [SuperTeamsUK](https://www.linkedin.com/company/superteamuk/?originalSubdomain=uk)
+- [Turbin3](https://x.com/solanaturbine)
+- [Life] (life-a-gr8-teacher!)
 
 ## Support
 
@@ -67,7 +69,7 @@ This software uses the following open source packages:
 
 ## License
 
-MIT
+ 
 
 ---
 
